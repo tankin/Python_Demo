@@ -15,3 +15,6 @@ Some complicated demos.
 ## Test
 One File for one purpose.
 
+
+## template.py
+A common template for script.
