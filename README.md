@@ -13,7 +13,7 @@ SvnUtil.py: supply svn manipulations, using svn command line, not pysvn
 Some complicated demos.
 
 ## Test
-One File for one purpose.
+One file for one purpose.
 
 
 ## template.py
